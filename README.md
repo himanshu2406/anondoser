@@ -1,1 +1,1 @@
-# My Cool Little Blog!
+# Tech blog following my journey
