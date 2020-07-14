@@ -14,6 +14,7 @@ author: AnonDoser
 navbar-links:
   About Me: "aboutme"
   Projects:
+    - Corona-Tracker Bot: "https://github.com/himanshu2406/Corona-Tracker-Bot"
     - Ai-Doc: "https://github.com/himanshu2406/Ai-Doctor"
     - Disease.sh: "https://disease.sh"
 #  Author's home: "https://elitedamyth.github.io"
