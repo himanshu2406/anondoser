@@ -4,7 +4,6 @@ title: Corona Tracker Discord bot
 subtitle: The best COVID 19 visualization and prediction discord bot made yet !
 tags: [Coronavirus, Discord bot, Discord, Machine Learning]
 readtime: true
-cover-img: /assets/img/rona.jpg
 image: /assets/img/disease-sh-logo.png
 comments: true
 ---
