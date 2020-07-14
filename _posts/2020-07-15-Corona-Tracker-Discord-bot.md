@@ -12,7 +12,9 @@ comments: true
 ### Resources:
 
 Official Github Repo: [here](https://github.com/himanshu2406/Corona-Tracker-Bot)
+
 Official Discord support server: [here](https://discord.gg/kdj6DMr)
+
 Invite bot to your own server: [here](https://discord.com/api/oauth2/authorize?client_id=731855425145798668&permissions=121856&scope=bot)
 
 > A detailed blog coming soonTM stay tuned ;)
